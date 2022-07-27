@@ -27,3 +27,8 @@ if you are using python and pip then you can use python instead of python3.
 I have updated a few more things in my code, thats why i am using config.yaml. I have made multiple yaml file rules to raise alert and put them in a new folder. Inside config.yaml file, i gave path to that folder.
 
 I have attached code of my config.yaml and frequency_rules in the code section. check them out if you are already following my ELK setup. You will have to give Elastic username and password also to let elastalert have access of your logs.   
+
+**Go through more repositories for example_frequency.yaml setup. 
+
+https://github.com/Yelp/elastalert/blob/master/example_rules/example_frequency.yaml
+https://github.com/Yelp/elastalert/tree/master/example_rules
